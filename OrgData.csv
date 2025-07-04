@@ -1,0 +1,12 @@
+﻿Employee Name,Job Title,Manager Name,Department,Project
+Sarah Lee,Head of Ops,,Operations,Project Falcon
+John Smith,Project Manager,Sarah Lee,Operations,Project Falcon
+Emily Patel,Dev Lead,John Smith,Engineering,Project Falcon
+Tom Green,Developer,Emily Patel,Engineering,Project Falcon
+Anna Jones,QA Analyst,Emily Patel,QA,Project Falcon
+Jack Wood,PM,Sarah Lee,Operations,Project Phoenix
+Mia Clark,Developer,Jack Wood,Engineering,Project Phoenix
+Luke Nash,UX Designer,Jack Wood,Design,Project Phoenix
+Claire Young,Program Lead,,Strategy,Project Orion
+Dan O'Neil,Data Scientist,Claire Young,Analytics,Project Orion
+Rachel Ford,ML Engineer,Dan O'Neil,Analytics,Project Orion
